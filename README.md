@@ -1,5 +1,6 @@
-## Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=bacbfe&height=220&section=header&text=Hi%20there👋%20I'm%20potato%20🥔&fontColor=ffa6c9&fontSize=50&&fontAlignY=38&animation=fadeIn)
+## patato is very delicous
+![footer](https://capsule-render.vercel.app/api?type=wave&colorbacbfe&height=118&section=footer&animation=fadeIn)
 <!--
 **potato-yummy/potato-yummy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
