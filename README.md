@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=bacbfe&height=220&section=header&text=Dong%20Jae's%20Profile&fontColor=ffffff&fontSize=50&&fontAlignY=38&animation=fadeIn)
+<div align=center>
 유능한 개발자를 꿈꾸는 개발자 지망생 이동재입니다
-___
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&colorbacbfe&height=118&section=footer&animation=fadeIn)
 <!--
