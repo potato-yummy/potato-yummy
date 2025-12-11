@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=bacbfe&height=220&section=header&text=Dong%20Jae's%20Profile&fontColor=ffffff&fontSize=50&&fontAlignY=38&animation=fadeIn)
-<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=946CEE&width=435&lines=Today+is+better+than+yesterday)](https://git.io/typing-svg)  <br>
 어제보다 나은 오늘이 되는 걸 목표로 삼는 예비 개발자 이동재입니다  <br>
-</div>
 ___
 
 
