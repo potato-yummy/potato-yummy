@@ -32,7 +32,7 @@ ___
 ___
 ## ☎ Contact
 - Email : ehdwo2024@gmail.com
-- Github : 
+- Github : https://github.com/potato-yummy
 <div align=center>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&colorbacbfe&height=118&section=footer&animation=fadeIn)
